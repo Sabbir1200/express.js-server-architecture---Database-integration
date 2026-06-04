@@ -1,0 +1,70 @@
+Method ->GET Time ->1780506582921 URL ->/
+Method -> GET Time -> 1780506684027 URL -> /
+
+Method -> GET Time -> 1780506694899 URL -> /
+
+Method -> GET Time -> 1780509539049 URL -> /products
+
+Method -> GET Time -> 1780509543381 URL -> /api/users
+
+Method -> GET Time -> 1780509557878 URL -> /api/users/3
+
+Method -> GET Time -> 1780509802191 URL -> /api/users
+
+Method -> GET Time -> 1780509849358 URL -> /api/users
+
+Method -> GET Time -> 1780511044894 URL -> /api/users
+
+Method -> GET Time -> 1780511144697 URL -> /api/users
+
+Method -> POST Time -> 1780511219060 URL -> /api/auth/login
+
+Method -> GET Time -> 1780511320129 URL -> /api/users
+
+Method -> GET Time -> 1780511361817 URL -> /api/users
+
+Method -> GET Time -> 1780511591892 URL -> /api/users
+
+Method -> GET Time -> 1780511620824 URL -> /api/users
+
+Method -> GET Time -> 1780511634408 URL -> /api/users
+
+Method -> GET Time -> 1780512034264 URL -> /api/users
+
+Method -> GET Time -> 1780512309643 URL -> /api/users
+
+Method -> GET Time -> 1780512399508 URL -> /api/users
+
+Method -> POST Time -> 1780515612568 URL -> /api/users
+
+Method -> POST Time -> 1780515868003 URL -> /api/users
+
+Method -> POST Time -> 1780515920449 URL -> /api/users
+
+Method -> POST Time -> 1780516104561 URL -> /api/users
+
+Method -> POST Time -> 1780520628939 URL -> /api/auth/login
+
+Method -> POST Time -> 1780520714390 URL -> /api/auth//refresh-token
+
+Method -> POST Time -> 1780520778409 URL -> /api/auth//refresh-token
+
+Method -> POST Time -> 1780521095886 URL -> /api/auth//refresh-token
+
+Method -> POST Time -> 1780521104268 URL -> /api/auth//refresh-token
+
+Method -> POST Time -> 1780521169942 URL -> /api/auth//refresh-token
+
+Method -> POST Time -> 1780521174516 URL -> /api/auth/refresh-token
+
+Method -> GET Time -> 1780593895437 URL -> /
+
+Method -> GET Time -> 1780593896423 URL -> /favicon.ico
+
+Method -> GET Time -> 1780593898406 URL -> /
+
+Method -> GET Time -> 1780593902705 URL -> /products
+
+Method -> GET Time -> 1780593913522 URL -> /products
+
+Method -> GET Time -> 1780593917601 URL -> /api/users
